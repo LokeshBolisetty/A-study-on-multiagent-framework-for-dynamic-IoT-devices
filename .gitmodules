@@ -1,0 +1,3 @@
+[submodule "pyDcop"]
+	path = pyDcop
+	url = git@github.com:LokeshBolisetty/pyDcop.git
