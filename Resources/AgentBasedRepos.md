@@ -26,7 +26,7 @@ Agent based modeling solutions in python
 
 	Advantages:
 	* Extensive framework for maps
-
+	* Interactive visualizations
 	Disadvantages:
 	* Works only for maps
 	
